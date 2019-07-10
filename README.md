@@ -20,7 +20,8 @@ After the restart, the plugins should be available in the module list under the
 "Advanced" category.
 
 You can now drag and drop a pipeline file into the program as well as the
-image sets.
+image sets. Example pipelines and image sets that utilise the developed plugins
+for cell segmentation and focal adhesion segmentation are provided. 
 
 -------------------------------------------------
 
