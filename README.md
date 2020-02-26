@@ -2,6 +2,8 @@
 bayesopt4cellprofiler
 
 -------------------------------------------------
+## Current version:
+Paper: https://www.biorxiv.org/content/10.1101/2020.02.20.956268v1.full
 
 In order to use the developed plugins
 - AutomatedEvaluation
@@ -24,6 +26,13 @@ image sets. Example pipelines and image sets that utilise the developed plugins
 for cell segmentation and focal adhesion segmentation are provided. 
 
 -------------------------------------------------
+## On the horison:
+- Support for mixed-type parameters (e.g. discrete and continuous)
+- Possibility to specify prior information about individual parameters to aid the optimisaiton.
+- Support for relative judgements of quality (A/B evaluations)
+- ... let us know if you have suggestions/ideas for new features or improvements.
 
-For questions, refer to the official CP webpage: http://cellprofiler.org
-or to CP's GitHub wiki: https://github.com/CellProfiler/CellProfiler/wiki
+-------------------------------------------------
+## Questions:
+For feature requests or questions, refer to the official [CP webpage](http://cellprofiler.org), 
+[CP GitHub wiki](https://github.com/CellProfiler/CellProfiler/wiki) or create an issue in this repo.
