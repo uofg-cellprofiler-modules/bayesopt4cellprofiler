@@ -1,5 +1,4 @@
 # bayesopt4cellprofiler
-bayesopt4cellprofiler
 
 -------------------------------------------------
 ## Current version:
