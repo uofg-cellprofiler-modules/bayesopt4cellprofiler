@@ -1,5 +1,5 @@
 # bayesopt4cellprofiler
-*interactive machine learning approach for fast and robust cell profiling.*
+*--interactive machine learning for fast and robust cell profiling.*
 
 Related paper: https://www.biorxiv.org/content/10.1101/2020.02.20.956268v1.full
 
